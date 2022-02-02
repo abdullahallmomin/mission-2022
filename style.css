@@ -1,7 +1,7 @@
 .h1-color{
     color: rgb(151, 81, 151);
 }
-.one{
+.head-1{
     border-left: orangered solid;
     border-radius: 2px;
 
@@ -19,4 +19,9 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 5%;
+}
+.head-img{
+    size-adjust: 5px 5px;
+    width: 5%;
+    padding-left: 10px;
 }
