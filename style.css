@@ -1,5 +1,5 @@
 .h1-color{
-    color: rgb(151, 81, 151);
+    color: orange;
 }
 .head-1{
     border-left: orangered solid;
@@ -18,10 +18,51 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 5%;
+    margin: 2%;
 }
-.head-img{
-    size-adjust: 5px 5px;
-    width: 5%;
-    padding-left: 10px;
+.head{
+    width: 50%;
+    padding-left: 5%;   
+    padding-top: 5%;
+}
+.head-2{
+    width: 50%;
+    padding-left: 5%;
+}
+.head-2 img{
+    width: 80%;
+}
+.one{
+    display: flex;
+    margin-bottom: 5px;
+    
+}
+.middle{
+   text-align: center;
+}
+.mission{
+    width: 50%;
+    padding: 400px 20px;
+    background-image: url(images/illustrators/illustrator-1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+.mission-2{
+    width: 50%;
+    padding: 40p0x 20px;
+    background-image: url(images/illustrators/illustrator-2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: cadetblue;
+
+}
+.mission-3{
+    width: 50%;
+    padding: 400px 20px;
+    background-image: url(images/illustrators/illustrator-3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+
 }
