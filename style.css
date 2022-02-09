@@ -7,7 +7,7 @@
 }
 .back-link{
     text-decoration: none;
-    color: black;
+    color: rgb(241, 235, 235);
     font-size: 20px;
     background-color: orangered;
     border-radius: 5px;
@@ -27,9 +27,13 @@ body{
 .head-2{
     width: 50%;
     padding-left: 5%;
+
 }
+
 .head-2 img{
-    width: 80%;
+    width: 50%;
+    padding-left: 5%;   
+    
 }
 
 .one{
@@ -54,7 +58,6 @@ body{
     margin-right: 1%;
     box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
-
 }
 .five1{
     padding-left: 2%;
@@ -74,7 +77,6 @@ body{
     margin-right: 1%;
     box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
-
 }
 
 .mi3{
@@ -82,3 +84,4 @@ body{
   padding-left: 25%;
   
 }
+
