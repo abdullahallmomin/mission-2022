@@ -45,23 +45,40 @@ body{
     display: flex;
     margin-bottom: 100px;
 }
-.four{
-    width: auto;
-    background-image: url(images/illustrators/illustrator-1.png);
-    background-position-x: 25%;
-    background-position-y: 25%;
-    background-size: 50%;
-    background-repeat: no-repeat;
-    padding-block-start: 55%;
-    background-color: cornflowerblue;
-    padding-bottom: 3%;
-    padding-left: 5%;
-    padding-right: 5%;
-    border-radius: 20px;
-}
-.mi2{
+
+.five{
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: cadetblue;
     margin-left: 1%;
     margin-right: 1%;
     box-shadow: 10px 10px 30px gray;
     border-radius: 20px;
+
+}
+.five1{
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color:rgb(199, 95, 77);
+    margin-left: 1%;
+    margin-right: 1%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+}
+
+.five2{
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color:rgb(182, 103, 143);
+    margin-left: 1%;
+    margin-right: 1%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+
+}
+
+.mi3{
+  width: 200px;
+  padding-left: 25%;
+  
 }
