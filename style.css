@@ -85,3 +85,27 @@ body{
   
 }
 
+.head-3 img{
+    width: 50%;
+    padding-left: 5%;   
+    
+}
+.bone{
+    display: flex;
+    margin-bottom: 5px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position-x: 85%;
+    background-position-y: 140%;
+    background-size: 10%;
+}
+
+.bac-1{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-position-y: 40%;
+    background-position-x: 4%;
+    background-size: 12%;
+}
+}
